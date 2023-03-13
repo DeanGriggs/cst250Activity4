@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\HeroMaker\bin\Debug\HeroMaker.exe.config
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\HeroMaker\bin\Debug\HeroMaker.exe
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\HeroMaker\bin\Debug\HeroMaker.pdb
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\HeroMaker\obj\Debug\HeroMaker.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\HeroMaker\obj\Debug\HeroMaker.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\HeroMaker\obj\Debug\HeroMaker.Form1.resources
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\HeroMaker\obj\Debug\HeroMaker.Properties.Resources.resources
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\HeroMaker\obj\Debug\HeroMaker.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\HeroMaker\obj\Debug\HeroMaker.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\HeroMaker\obj\Debug\HeroMaker.exe
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\HeroMaker\obj\Debug\HeroMaker.pdb
+C:\Users\User\Desktop\CST-250\Week 3\Activity 3\HeroMaker\obj\Debug\HeroMaker.ListofHeros.resources
